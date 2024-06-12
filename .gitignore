@@ -1,2 +1,4 @@
 /statics/*
 !/statics/statics.go
+
+*.exe
