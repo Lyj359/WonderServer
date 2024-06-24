@@ -1,8 +1,8 @@
 package route
 
 import (
-	"ZiranServer/statics"
-	"ZiranServer/utils/httputils"
+	"WonderServer/statics"
+	"WonderServer/utils/httputils"
 	"io/fs"
 	"log/slog"
 	"net/http"

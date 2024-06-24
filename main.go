@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ZiranServer/route"
+	"WonderServer/route"
 	"log/slog"
 	"time"
 )
